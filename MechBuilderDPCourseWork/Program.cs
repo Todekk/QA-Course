@@ -15,7 +15,7 @@ namespace PCBuilder
             Console.Write("ENTER USERNAME: ");
             buyer.BuyItem(Console.ReadLine());
 
-            Console.WriteLine("CUSTOM or PREBUILT PC");
+            Console.WriteLine("CUSTOM OR PREBUILT PC");
             string userResponse = Console.ReadLine();
 
             switch(userResponse.ToLower())
