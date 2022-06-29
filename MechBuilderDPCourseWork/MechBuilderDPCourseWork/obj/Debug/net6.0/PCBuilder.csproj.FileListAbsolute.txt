@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\MechBuilderDPCourseWork\MechBuilderDPCourseWork\bin\Debug\net6.0\PCBuilder.exe
+C:\Users\User\source\repos\MechBuilderDPCourseWork\MechBuilderDPCourseWork\bin\Debug\net6.0\Program.cs
+C:\Users\User\source\repos\MechBuilderDPCourseWork\MechBuilderDPCourseWork\bin\Debug\net6.0\PCBuilder.deps.json
+C:\Users\User\source\repos\MechBuilderDPCourseWork\MechBuilderDPCourseWork\bin\Debug\net6.0\PCBuilder.runtimeconfig.json
+C:\Users\User\source\repos\MechBuilderDPCourseWork\MechBuilderDPCourseWork\bin\Debug\net6.0\PCBuilder.dll
+C:\Users\User\source\repos\MechBuilderDPCourseWork\MechBuilderDPCourseWork\bin\Debug\net6.0\ref\PCBuilder.dll
+C:\Users\User\source\repos\MechBuilderDPCourseWork\MechBuilderDPCourseWork\bin\Debug\net6.0\PCBuilder.pdb
+C:\Users\User\source\repos\MechBuilderDPCourseWork\MechBuilderDPCourseWork\obj\Debug\net6.0\PCBuilder.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MechBuilderDPCourseWork\MechBuilderDPCourseWork\obj\Debug\net6.0\PCBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MechBuilderDPCourseWork\MechBuilderDPCourseWork\obj\Debug\net6.0\PCBuilder.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MechBuilderDPCourseWork\MechBuilderDPCourseWork\obj\Debug\net6.0\PCBuilder.AssemblyInfo.cs
+C:\Users\User\source\repos\MechBuilderDPCourseWork\MechBuilderDPCourseWork\obj\Debug\net6.0\PCBuilder.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MechBuilderDPCourseWork\MechBuilderDPCourseWork\obj\Debug\net6.0\PCBuilder.dll
+C:\Users\User\source\repos\MechBuilderDPCourseWork\MechBuilderDPCourseWork\obj\Debug\net6.0\ref\PCBuilder.dll
+C:\Users\User\source\repos\MechBuilderDPCourseWork\MechBuilderDPCourseWork\obj\Debug\net6.0\PCBuilder.pdb
+C:\Users\User\source\repos\MechBuilderDPCourseWork\MechBuilderDPCourseWork\obj\Debug\net6.0\PCBuilder.genruntimeconfig.cache

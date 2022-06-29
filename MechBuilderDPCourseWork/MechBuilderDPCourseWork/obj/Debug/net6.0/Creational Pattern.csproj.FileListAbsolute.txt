@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\MechBuilderDPCourseWork\MechBuilderDPCourseWork\bin\Debug\net6.0\Creational Pattern.exe
+C:\Users\User\source\repos\MechBuilderDPCourseWork\MechBuilderDPCourseWork\bin\Debug\net6.0\Creational Pattern.deps.json
+C:\Users\User\source\repos\MechBuilderDPCourseWork\MechBuilderDPCourseWork\bin\Debug\net6.0\Creational Pattern.runtimeconfig.json
+C:\Users\User\source\repos\MechBuilderDPCourseWork\MechBuilderDPCourseWork\bin\Debug\net6.0\Creational Pattern.dll
+C:\Users\User\source\repos\MechBuilderDPCourseWork\MechBuilderDPCourseWork\bin\Debug\net6.0\ref\Creational Pattern.dll
+C:\Users\User\source\repos\MechBuilderDPCourseWork\MechBuilderDPCourseWork\bin\Debug\net6.0\Creational Pattern.pdb
+C:\Users\User\source\repos\MechBuilderDPCourseWork\MechBuilderDPCourseWork\obj\Debug\net6.0\Creational Pattern.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MechBuilderDPCourseWork\MechBuilderDPCourseWork\obj\Debug\net6.0\Creational Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MechBuilderDPCourseWork\MechBuilderDPCourseWork\obj\Debug\net6.0\Creational Pattern.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MechBuilderDPCourseWork\MechBuilderDPCourseWork\obj\Debug\net6.0\Creational Pattern.AssemblyInfo.cs
+C:\Users\User\source\repos\MechBuilderDPCourseWork\MechBuilderDPCourseWork\obj\Debug\net6.0\Creational Pattern.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MechBuilderDPCourseWork\MechBuilderDPCourseWork\obj\Debug\net6.0\Creational Pattern.dll
+C:\Users\User\source\repos\MechBuilderDPCourseWork\MechBuilderDPCourseWork\obj\Debug\net6.0\ref\Creational Pattern.dll
+C:\Users\User\source\repos\MechBuilderDPCourseWork\MechBuilderDPCourseWork\obj\Debug\net6.0\Creational Pattern.pdb
+C:\Users\User\source\repos\MechBuilderDPCourseWork\MechBuilderDPCourseWork\obj\Debug\net6.0\Creational Pattern.genruntimeconfig.cache
+C:\Users\User\source\repos\MechBuilderDPCourseWork\MechBuilderDPCourseWork\bin\Debug\net6.0\Program.cs
